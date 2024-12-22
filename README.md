@@ -5,3 +5,4 @@
 3. jupyter-labs-spacex-Data wrangling.ipynb
 4. jupyter-labs-eda-sql-coursera_sqllite.ipynb
 5. edadataviz.ipynb
+6. lab_jupyter_launch_site_location.ipynb
