@@ -4,3 +4,4 @@
 2. jupyter-labs-webscraping.ipynb
 3. jupyter-labs-spacex-Data wrangling.ipynb
 4. jupyter-labs-eda-sql-coursera_sqllite.ipynb
+5. edadataviz.ipynb
